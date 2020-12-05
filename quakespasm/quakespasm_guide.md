@@ -52,6 +52,6 @@ Place the 'maps' folder it contains into your id1 folder
 
 # 
 
-*You should now be ready to play Quake Singleplayer.*
+*You should now be ready to play Quake singleplayer.*
 
 *Rip and tear! (That's Doom but whatever)*
