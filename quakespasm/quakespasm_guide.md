@@ -26,29 +26,29 @@ Quake by default has a lot of settings passed down from 1996
 
 To remedy this, go to [https://github.com/m0rrism0rris/misc/blob/main/quakespasm/config.cfg], right-click on the 'Raw' button, and click 'Save Link As'
 
-Name it 'config.cfg' and place it in the id1 folder.
+Name it 'config.cfg' and place it in the id1 folder
 
 
 
 ### 4--Soundtrack (OPTIONAL BUT YOU REALLY REALLY SHOULD)
 
-You will probably want the soundtrack to Quake as well.
+You will probably want the soundtrack to Quake as well
 
 Download it from [https://www.quaddicted.com/files/music/quake_campaign_soundtrack.zip]
 
 It should contain a folder named 'id1'
 
-Drag the files inside this folder to your own id1 folder.
+Drag the files inside this folder to your own id1 folder
 
 
 
 ### 5--Lighting (OPTIONAL)
 
-Quakespasm supports colored lighting, which greatly improves the atmosphere of the game.
+Quakespasm supports colored lighting, which greatly improves the atmosphere of the game
 
 Download it from [http://www.quaketastic.com/files/misc/litvis_packs/id1_litvis.zip]
 
-Place the 'maps' folder it contains into your id1 folder.
+Place the 'maps' folder it contains into your id1 folder
 
 # 
 
