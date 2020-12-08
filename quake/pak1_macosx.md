@@ -10,6 +10,10 @@ Once the download is complete, go to *Library/Application Support/Steam* and ope
 
 Within this folder navigate to *Steam/Contents/MacOS/steamapps/content/app_2310/depot_2311*
 
+This folder contains 7 different versions of Quake
+
+Ignore them all
+
 Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 folder from earlier
 
 #
