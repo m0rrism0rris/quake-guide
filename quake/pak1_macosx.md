@@ -1,8 +1,8 @@
 ## DOWNLOADING THE FULL VERSION OF QUAKE ON MAC OSX
 
-Enter this (without quotes) into your browser's search bar: 'steam://open/console'
+Enter this (without quotes) into your browser's search bar: [steam://open/console]
 
-Unless you have a family account (you probably don't) this should open Steam with the console enabled
+Unless you have a family account (you probably don't) this should open Steam with its console enabled
 
 At the top, select the Console tab and enter (without quotes) 'download_depot 2310 2311 6053405624730600672'
 
