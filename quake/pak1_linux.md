@@ -8,7 +8,7 @@ At the top, select the Console tab and enter *download_depot 2310 2311 605340562
 
 Once the download is complete, go to the folder specified in the Steam console.
 
-Open the enclosed id1 folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 folder from earlier
+Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 folder from earlier
 
 #
 
