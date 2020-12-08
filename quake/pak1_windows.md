@@ -1,6 +1,6 @@
 ## DOWNLOADING THE FULL VERSION OF QUAKE ON WINDOWS
 
-Install it using Steam
+Install Quake using Steam, like any other game
 
 Right-click on Quake in the sidebar and select *Properties*
 
