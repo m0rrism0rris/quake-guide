@@ -12,4 +12,4 @@ Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 fo
 
 #
 
-Finally, start up Quake and enjoy your new Realm of Black Magic, the Netherworld, the Elder World, and Deathmatches!
+Finally, start up Quake and enjoy your new Realm of Black Magic, Netherworld, Elder World, and Deathmatches!
