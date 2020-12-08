@@ -1,5 +1,9 @@
 ## DOWNLOADING THE FULL VERSION OF QUAKE ON MAC OSX
 
+You will not be able to download Quake the usual way, as the version distributed with Steam is Windows-exclusive
+
+This is fine, buy it anyways
+
 Enter *steam://open/console* into your browser's search bar
 
 Unless you have a family account (you probably don't) this should open Steam with its console enabled
