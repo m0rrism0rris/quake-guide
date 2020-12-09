@@ -8,11 +8,11 @@ Create a folder *id1* inside the Quake folder
 #### 2—Content
 Follow either section 2.1 for the demo version or 2.2 for the full version  
 
-##### 2.1—Demo
+###### 2.1—Demo
 Download *pak0.pak* from [https://github.com/shaunlebron/blinky/blob/master/game/id1/pak0.pak?raw=true]  
 Place it in the id1 folder from earlier  
 
-##### 2.2—Full Version
+###### 2.2—Full Version
 You will not be able to download Quake the usual way, as the version distributed with Steam is Windows-exclusive  
 This is fine, buy it anyways  
 Enter *steam://open/console* into your browser's search bar  
