@@ -1,6 +1,6 @@
-# SINGLEPLAYER QUAKE FOR MAC OS X
+## SINGLEPLAYER QUAKE FOR MAC OS X
 
-## 1—Engine
+### 1—Engine
 
 Download *Quakespasm* from [http://quakespasm.sourceforge.net/download.htm]
 
@@ -12,13 +12,13 @@ Create a folder *id1* inside the Quake folder
 
 
 
-## 2—Content
+### 2—Content
 
 Follow either section 2.1 for the demo version or 2.2 for the full version
 
 
 
-### 2.1—Demo
+**2.1—Demo**
 
 Download *pak0.pak* from [https://github.com/shaunlebron/blinky/blob/master/game/id1/pak0.pak?raw=true]
 
@@ -26,7 +26,7 @@ Place it in the id1 folder from earlier
 
 
 
-### 2.2—Full Version
+**2.2—Full Version**
 
 You will not be able to download Quake the usual way, as the version distributed with Steam is Windows-exclusive
 
@@ -50,7 +50,7 @@ Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 fo
 
 
 
-## 3—Configuration
+### 3—Configuration
 
 Quake by default has a lot of settings passed down from 1996
 
@@ -61,7 +61,7 @@ Otherwise, go to [https://github.com/m0rrism0rris/misc/blob/main/quakespasm/conf
 Name it *config.cfg* and place it in the id1 folder
 
 
-## 4—Soundtrack (OPTIONAL BUT YOU REALLY REALLY SHOULD)
+### 4—Soundtrack (OPTIONAL BUT YOU REALLY REALLY SHOULD)
 
 You will probably want the soundtrack to Quake as well
 
@@ -73,7 +73,7 @@ Drag the files inside this folder to your own id1 folder
 
 
 
-## 5—Lighting (OPTIONAL)
+### 5—Lighting (OPTIONAL)
 
 Quakespasm supports colored lighting, which greatly improves the atmosphere of the game
 
