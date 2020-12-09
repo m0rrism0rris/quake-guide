@@ -42,7 +42,7 @@ Once the download is complete, go to *Library/Application Support/Steam* and ope
 
 Within this folder navigate to *Steam/Contents/MacOS/steamapps/content/app_2310/depot_2311*
 
-This folder contains 7 different versions of Quake
+This folder contains 7 different versions of the Quake executable
 
 Ignore them all
 
