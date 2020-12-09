@@ -1,0 +1,4 @@
+#!/bin/sh
+cd $(dirname "$0")
+exec ../../../DarkPlaces.app/Contents/MacOS/darkplaces-osx-sdl -game quake15
+ls
