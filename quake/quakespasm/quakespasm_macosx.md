@@ -44,6 +44,7 @@ Quakespasm supports colored lighting, which greatly improves the atmosphere of t
 Download it from [http://www.quaketastic.com/files/misc/litvis_packs/id1_litvis.zip]  
 Place the *maps* folder it contains into your id1 folder  
 
----
+##
+
 *You should now be ready to play Quake singleplayer.  
 Rip and tear! (That's Doom but whatever)*
