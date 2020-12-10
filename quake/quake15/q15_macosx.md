@@ -29,4 +29,8 @@ Download Quake 1.5 from <https://www.moddb.com/downloads/start/173517>
 If you do not have a way to extract 7z files, you will need a tool such as [The Unarchiver](https://theunarchiver.com/)  
 Extract the zip and drag the enclosed *quake15* folder to your DarkPlaces folder from earlier  
 Download <https://github.com/m0rrism0rris/misc/releases/download/tag/Quake15Hack.zip>  
-Move it to your DarkPlaces folder and open *Quake15.app* to play the game!
+Extract it and move *Quake15.app* to your DarkPlaces folder  
+
+#
+
+*Run Quake15.app and enjoy!*
