@@ -1,4 +1,7 @@
 ### INSTALLING QUAKE 1.5 ON MAC OS X
+
+*Note: If you get an unidentified developer error when trying to open an application, right-click it and select Open*
+
 #### 1—Engine
 Download the August 2018 build of *DarkPlaces* from <https://icculus.org/twilight/darkplaces/files/darkplacesengine20180908beta1.zip>  
 Create a new folder *DarkPlaces* wherever you might want (I suggest Applications)  
