@@ -27,7 +27,7 @@ Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 fo
 #### 3—Configuration
 Quake by default has a lot of settings passed down from 1996  
 If your greatest pleasure is configuring things, type *cvarlist* into the console to get started  
-Otherwise, go to <https://github.com/m0rrism0rris/misc/blob/main/quakespasm/config.cfg>, right-click on the *Raw* button, and click *Save Link As*  
+Otherwise, go to <https://github.com/m0rrism0rris/misc/blob/main/quake/quakespasm/config.cfg>, right-click on the *Raw* button, and click *Save Link As*  
 Name it *config.cfg* and place it in the id1 folder  
 
 
