@@ -11,27 +11,27 @@ Follow either section 2.1 for the demo version or 2.2 for the full version
 ###### 2.1—Demo
 Download *pak0.pak* from <https://github.com/shaunlebron/blinky/blob/master/game/id1/pak0.pak?raw=true>  
 Place it in the id1 folder from earlier  
-Skip section 2.2 below  
+Skip section 2.2  
 
 ###### 2.2—Full Version
 Install Quake using Steam, like any other game  
 Right-click on Quake in the sidebar and select *Properties*  
 Go to the *Local Files* tab and select *Browse Local Files*  
 This folder contains 7 different versions of Quake  
-Ignore them all, unless you want to relive the 90s  
+Ignore them all, unless you want to relive the 90s (I suggest *WinQuake.exe*)  
 Open the enclosed *Id1* folder and copy *PAK0.PAK* and *PAK1.PAK* to your id1 folder from earlier  
 
 #### 3—Configuration
 Quake by default requires some setup to play like a modern game, and to look closer to the original Quake  
-Follow section 3.2 to configure it manually  
+Follow section 3.1 to skip this or follow 3.2 to configure it manually  
 
 ###### 3.1—Manual Configuration
-Go to <https://github.com/m0rrism0rris/misc/blob/main/quake/quakespasm/config.cfg>, right-click on the *Raw* button, and click *Save Link As*  
+Right-click on the link [https://raw.githubusercontent.com/m0rrism0rris/misc/main/quake/quakespasm/config.cfg] and select *Save Link As*  
 Name it *config.cfg* and place it in the id1 folder  
-Skip section 3.2 below  
+Skip section 3.2  
 
 ###### 3.2—Manual Configuration
-Open Quakespasm, and start a new game
+Open Quakespasm, and start a new game  
 Press *~* to open the console
 
 *Some useful settings:* 
@@ -42,10 +42,10 @@ Press *~* to open the console
 - To fix the UI `scr_conscale 2`, `scr_menuscale 2`, `scr_sbarscale 2`, and `scr_crosshairscale 2`  
   (or whatever whole number you might want)
 - To make the window borderless `vid_borderless 1`
-- (FOR 90S FANS ONLY) To reduce the resolution `r_scale 2` or even 3 or 4
+- (FOR 90S FANS ONLY) To reduce the resolution `r_scale 2` or even 3 or 4  
 
 Finally, press *Escape* and go to Options  
-Set them as you see fit, and make sure to enable mouselook
+Set them as you see fit, and make sure to enable mouselook  
 
 #### 4—Soundtrack (OPTIONAL BUT YOU REALLY REALLY SHOULD)
 You will probably want the soundtrack to Quake as well  
