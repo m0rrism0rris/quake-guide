@@ -56,7 +56,7 @@ r_lerpmodels 0
 r_lerpmove 0
 ' > autoexec.cfg
 
-echo "\x1b[1mInstalled Quake demo to `pwd`/Quakespasm\x1b[0m
+echo "Installed Quake demo to `pwd`/Quakespasm
 Rip and tear! (That's Doom but whatever)
 
 To install the full version, follow the instructions at
