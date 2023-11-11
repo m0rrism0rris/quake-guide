@@ -26,7 +26,7 @@ Quake by default requires some setup to play like a modern game, and to look clo
 Follow section 3.1 to skip this or follow 3.2 to configure it manually  
 
 ###### 3.1—Manual Configuration
-Right-click on the link [https://raw.githubusercontent.com/m0rrism0rris/misc/main/quake/quakespasm/config.cfg] and select *Save Link As*  
+Right-click on [this link](https://raw.githubusercontent.com/m0rrism0rris/misc/main/quake/quakespasm/config.cfg) and select *Save Link As*  
 Name it *config.cfg* and place it in the id1 folder  
 Skip section 3.2  
 
