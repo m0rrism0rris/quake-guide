@@ -1,7 +1,8 @@
 ### MULTIPLAYER QUAKE FOR MAC OS X
 #### 1—Engine
 Download your preferred version of FTE (file starting with *fteqw-macosx-*) from <https://6464.at/~rhoenie/>
-I suggest version 5506
+(I suggest version 5506)
+
 Place the .app in your Applications folder
 
 ###### 2.1—Demo
